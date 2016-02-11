@@ -8,3 +8,4 @@ To use the software, you simply need to install Adobe flash, prepare a foder of 
 
 Both source code and the application are available, they are in the same file!! Why, cause all binary runnable application are revertable!!!!
 
+The coding is not hard, but overall it is my first and ever flash application, celebrate!!!
